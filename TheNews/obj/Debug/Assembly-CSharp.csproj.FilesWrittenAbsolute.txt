@@ -1,0 +1,17 @@
+/Users/ricardodesmedt 1/Documents/Unity Projects/TheNews/Temp/bin/Debug/UnityEngine.dll
+/Users/ricardodesmedt 1/Documents/Unity Projects/TheNews/Temp/bin/Debug/UnityEditor.dll
+/Users/ricardodesmedt 1/Documents/Unity Projects/TheNews/Temp/bin/Debug/UnityEngine.UI.dll
+/Users/ricardodesmedt 1/Documents/Unity Projects/TheNews/Temp/bin/Debug/UnityEngine.Networking.dll
+/Users/ricardodesmedt 1/Documents/Unity Projects/TheNews/Temp/bin/Debug/Mono.Cecil.dll
+/Users/ricardodesmedt 1/Documents/Unity Projects/TheNews/Temp/bin/Debug/Unity.SerializationLogic.dll
+/Users/ricardodesmedt 1/Documents/Unity Projects/TheNews/Temp/bin/Debug/Unity.DataContract.dll
+/Users/ricardodesmedt 1/Documents/Unity Projects/TheNews/Temp/bin/Debug/ICSharpCode.NRefactory.dll
+/Users/ricardodesmedt 1/Documents/Unity Projects/TheNews/Temp/bin/Debug/Unity.UNetWeaver.dll
+/Users/ricardodesmedt 1/Documents/Unity Projects/TheNews/Temp/bin/Debug/Unity.UNetWeaver.dll.mdb
+/Users/ricardodesmedt 1/Documents/Unity Projects/TheNews/Temp/bin/Debug/Unity.CecilTools.dll
+/Users/ricardodesmedt 1/Documents/Unity Projects/TheNews/Temp/bin/Debug/Mono.Cecil.Pdb.dll
+/Users/ricardodesmedt 1/Documents/Unity Projects/TheNews/Temp/bin/Debug/Mono.Cecil.Mdb.dll
+/Users/ricardodesmedt 1/Documents/Unity Projects/TheNews/Temp/bin/Debug/Assembly-CSharp.dll.mdb
+/Users/ricardodesmedt 1/Documents/Unity Projects/TheNews/Temp/bin/Debug/Assembly-CSharp.dll
+/Users/ricardodesmedt 1/Documents/Unity Projects/TheNews/obj/Debug/Assembly-CSharp.dll
+/Users/ricardodesmedt 1/Documents/Unity Projects/TheNews/obj/Debug/Assembly-CSharp.dll.mdb
